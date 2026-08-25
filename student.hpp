@@ -17,7 +17,7 @@ struct Student {
 
 
 /**
- * @brief Stream a student record in a human-readable format.
+ *  Stream a student record in a human-readable format.
  */
 std::ostream &operator<<(std::ostream &os, const Student &student);
 
