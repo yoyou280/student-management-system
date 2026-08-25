@@ -21,3 +21,4 @@ A high-performance C++ system that combines a generic, character-bounded Trie da
 | `student.hpp` / `student.cpp` | `Student` struct definition and streaming operator (`<<`) formatting. |
 | `system.hpp` / `system.cpp` | `System` class handling multi-index storage and search logic. |
 | `main.cpp` | Interactive CLI interface for managing and querying records. |
+
